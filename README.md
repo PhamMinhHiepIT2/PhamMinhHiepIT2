@@ -4,11 +4,11 @@
 - 🌱 I’m currently learning skills of Data Engineer and Devops. Some topics such as Machine Learning, Deep Learning, Cloud Service, ... <br>
 
 ### BigData Project
-[![Build a Data Pipeline](https://img.shields.io/badge/-🛡%Data%20Pipeline-fff?)](https://github.com/PhamMinhHiepIT2/BigData)
+[![Build a Data Pipeline](https://img.shields.io/badge/-🛡%20Data%20Pipeline-fff?)](https://github.com/PhamMinhHiepIT2/BigData)
 
 
 ### Machine Learning Project
-[![Smile Detection using BKNet](https://img.shields.io/badge/-📝%Smile%20Detection-fff?)](https://github.com/PhamMinhHiepIT2/SmileDetectionBKNet)
+[![Smile Detection using BKNet](https://img.shields.io/badge/-📝%20Smile%20Detection-fff?)](https://github.com/PhamMinhHiepIT2/SmileDetectionBKNet)
 [![Movie Recommendation System](https://img.shields.io/badge/-💉%20Movie%20Recommendation-fff?)](https://github.com/PhamMinhHiepIT2/MovieRecommendation)
 
 
