@@ -7,7 +7,6 @@
 You can find me from:
 
 - 🔗 GitHub: [PhamMinhHiepIT2](https://github.com/PhamMinhHiepIT2)
-- 🔗 LinkedIn: [Hiep Pham](https://www.linkedin.com/in/pham-minh-hiep-a73837122/)
 - 📧 Email: [Hiep Pham](hieppham.devops@gmail.com)
 - 🔗 Blog: https://itechkb.com/
 
