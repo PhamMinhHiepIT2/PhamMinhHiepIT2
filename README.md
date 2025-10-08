@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Welcome to my Git
 ---
-- 👋 Hi, I’m Pham Minh Hiep. I graduated from Hanoi University of Science and Technology with excellent grades.
+- 👋 Hi, I’m Hiep Pham. I graduated from Hanoi University of Science and Technology with excellent grades.
 - 🌱 I am a DevOps Engineer passionate about automating everything by coding and learning new technology. And with DevOps's mission, I want to share my knowledge and guide every developer who will work with me in an automatic mindset, and then this can increase human productivity and the company's productivity<br>
 - 🌱 Skills: AWS, Azure, Kubernetes, Docker, Python, Bash, CICD, Monitoring, Logging, Tracing, Linux, ...
 
